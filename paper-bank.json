@@ -1,0 +1,1882 @@
+{
+  "base": [
+    {
+      "id": "aqa-soc-set1-p1",
+      "paper": 1,
+      "title": "Set 1 · Education with Theory and Methods",
+      "minutes": 120,
+      "marks": 80,
+      "subject": "Sociology",
+      "tier": "A Level",
+      "questions": [
+        {
+          "title": "Education",
+          "parts": [
+            {
+              "q": "Outline two ways material resources may affect educational experiences.",
+              "m": 4,
+              "ms": [
+                "Identify a relevant material resource, such as study space.",
+                "Explain a linked consequence, such as opportunities for quiet preparation.",
+                "Identify a distinct resource, such as reliable digital access.",
+                "Explain a linked consequence, such as access to online learning."
+              ]
+            },
+            {
+              "q": "Outline three ways school organisation may influence pupils’ experiences.",
+              "m": 6,
+              "ms": [
+                "Identify grouping, such as setting.",
+                "Explain how it affects access or expectations.",
+                "Identify a distinct process, such as reward or sanction systems.",
+                "Explain its influence on relationships or behaviour.",
+                "Identify a further process, such as curriculum organisation.",
+                "Explain its influence on recognition or opportunities."
+              ]
+            },
+            {
+              "q": "<p><b>Item A · original fictional material</b><br>A school lets families apply for places online. An oversubscribed course gives priority to pupils who can attend additional sessions before school.</p>Applying material from Item A, analyse two ways formally equal admission rules may produce unequal access.",
+              "m": 10,
+              "ms": [],
+              "lor": [
+                [
+                  "9–10",
+                  "Two distinct, accurate and well-developed explanations, each linked directly to the question; item material is analysed where required."
+                ],
+                [
+                  "7–8",
+                  "Two relevant explanations with development and mostly clear application; some links are less precise."
+                ],
+                [
+                  "5–6",
+                  "Some relevant explanation, but one or both chains are incomplete or uneven."
+                ],
+                [
+                  "3–4",
+                  "Limited relevant ideas; mainly descriptions or undeveloped points."
+                ],
+                [
+                  "1–2",
+                  "Minimal relevant material without a clear explanatory chain."
+                ],
+                [
+                  "0",
+                  "No relevant creditworthy response."
+                ]
+              ],
+              "ind": [
+                "Digital resources, skills and information can affect applications.",
+                "Transport, caring responsibilities and work schedules can affect attendance.",
+                "Develop two separate mechanisms and their consequences; link each to the item."
+              ],
+              "note": "Original indicative guidance, not a point-per-mark checklist. Use a best-fit holistic judgement and credit other accurate, relevant material. For a two-way 10-mark response, a single developed way cannot receive more than 5 marks. Give two distinct explanatory chains; evaluation is not a substitute for explaining them."
+            },
+            {
+              "q": "<p><b>Item B · original fictional material</b><br>Schools assess achievement through qualifications and describe success as the result of effort. However, pupils bring different resources and may experience different expectations within school.</p>Applying material from Item B and your knowledge, evaluate the view that education provides equal opportunities for all pupils.",
+              "m": 30,
+              "ms": [],
+              "lor": [
+                [
+                  "25–30",
+                  "Accurate and detailed understanding; sustained application to the question and item where supplied; developed analysis and a reasoned judgement."
+                ],
+                [
+                  "19–24",
+                  "Mostly accurate and relevant understanding, with developed application and analysis; evaluation or judgement has some unevenness."
+                ],
+                [
+                  "13–18",
+                  "Relevant understanding with some application and developed explanation; analysis is intermittent and the overall argument is partial."
+                ],
+                [
+                  "7–12",
+                  "Some relevant knowledge, but application is general and explanation or analysis is limited."
+                ],
+                [
+                  "1–6",
+                  "Fragmented or superficial knowledge with little development or focus on the question."
+                ],
+                [
+                  "0",
+                  "No relevant creditworthy response."
+                ]
+              ],
+              "ind": [
+                "Functionalist accounts of universalistic standards and role allocation.",
+                "Material conditions and cultural capital.",
+                "Gender, ethnicity, institutional racism and intersectional differences.",
+                "Labelling, subcultures and school organisation.",
+                "Selection, marketisation and unequal capacity to exercise choice.",
+                "A reasoned judgement distinguishing formal rules, opportunity and outcomes."
+              ],
+              "note": "Original indicative guidance, not a point-per-mark checklist. Use a best-fit holistic judgement and credit other accurate, relevant material. Where an item is provided, use its details in the argument rather than copying it without explanation."
+            }
+          ]
+        },
+        {
+          "title": "Methods in context",
+          "parts": [
+            {
+              "q": "<p><b>Item C · original fictional material</b><br>A researcher wants to understand how pupils experience being moved between teaching groups. A school offers access to group interviews during a lesson. Teachers want to know which pupils criticised the system, while some pupils are concerned about discussing their experiences in front of classmates.</p>Applying material from Item C and your knowledge of research methods, evaluate the strengths and limitations of using group interviews to investigate pupils’ experiences of teaching groups.",
+              "m": 20,
+              "ms": [],
+              "lor": [
+                [
+                  "17–20",
+                  "Accurate and detailed understanding; sustained application to the question and item where supplied; developed analysis and a reasoned judgement."
+                ],
+                [
+                  "13–16",
+                  "Mostly accurate and relevant understanding, with developed application and analysis; evaluation or judgement has some unevenness."
+                ],
+                [
+                  "9–12",
+                  "Relevant understanding with some application and developed explanation; analysis is intermittent and the overall argument is partial."
+                ],
+                [
+                  "5–8",
+                  "Some relevant knowledge, but application is general and explanation or analysis is limited."
+                ],
+                [
+                  "1–4",
+                  "Fragmented or superficial knowledge with little development or focus on the question."
+                ],
+                [
+                  "0",
+                  "No relevant creditworthy response."
+                ]
+              ],
+              "ind": [
+                "Interaction may prompt discussion and clarify meanings, but peers can silence dissent.",
+                "Existing class relationships and labels can shape disclosure and confidentiality risks.",
+                "Gatekeeper access does not replace pupils’ voluntary consent.",
+                "Teacher requests threaten confidentiality and trust; explain appropriate limits and safeguarding.",
+                "Lesson time, age-appropriate questions and power differences affect practicality and validity.",
+                "Compare what this design can reveal with limitations and feasible alternatives; remain focused on this educational context."
+              ],
+              "note": "Original indicative guidance, not a point-per-mark checklist. Use a best-fit holistic judgement and credit other accurate, relevant material. Where an item is provided, use its details in the argument rather than copying it without explanation."
+            }
+          ]
+        },
+        {
+          "title": "Theory and methods",
+          "parts": [
+            {
+              "q": "Outline and explain two reasons why interpretivist sociologists may prefer methods that collect qualitative data.",
+              "m": 10,
+              "ms": [],
+              "lor": [
+                [
+                  "9–10",
+                  "Two distinct, accurate and well-developed explanations, each linked directly to the question; item material is analysed where required."
+                ],
+                [
+                  "7–8",
+                  "Two relevant explanations with development and mostly clear application; some links are less precise."
+                ],
+                [
+                  "5–6",
+                  "Some relevant explanation, but one or both chains are incomplete or uneven."
+                ],
+                [
+                  "3–4",
+                  "Limited relevant ideas; mainly descriptions or undeveloped points."
+                ],
+                [
+                  "1–2",
+                  "Minimal relevant material without a clear explanatory chain."
+                ],
+                [
+                  "0",
+                  "No relevant creditworthy response."
+                ]
+              ],
+              "ind": [
+                "Understanding participants’ meanings through flexible questioning.",
+                "Contextual detail and processes that standard categories may miss.",
+                "Develop two distinct methodological reasons; avoid claiming that all qualitative work is automatically valid."
+              ],
+              "note": "Original indicative guidance, not a point-per-mark checklist. Use a best-fit holistic judgement and credit other accurate, relevant material. For a two-way 10-mark response, a single developed way cannot receive more than 5 marks. Give two distinct explanatory chains; evaluation is not a substitute for explaining them."
+            }
+          ]
+        }
+      ],
+      "coverage": [
+        "Education · 50 marks",
+        "Methods in context · 20 marks",
+        "Theory and methods · 10 marks"
+      ]
+    },
+    {
+      "id": "aqa-soc-set1-p3",
+      "paper": 3,
+      "title": "Set 1 · Crime and Deviance with Theory and Methods",
+      "minutes": 120,
+      "marks": 80,
+      "subject": "Sociology",
+      "tier": "A Level",
+      "questions": [
+        {
+          "title": "Crime and deviance",
+          "parts": [
+            {
+              "q": "Outline two differences between crime and deviance.",
+              "m": 4,
+              "ms": [
+                "Crime is defined through a legal system.",
+                "Deviance concerns departure from social norms and need not break the law.",
+                "Identify another relevant distinction, such as the form of control or contextual variation.",
+                "Explain it accurately: formal legal sanctions versus possible informal disapproval; credit other developed distinctions."
+              ]
+            },
+            {
+              "q": "Outline three reasons why police-recorded crime may not measure all offending.",
+              "m": 6,
+              "ms": [
+                "Identify under-reporting.",
+                "Explain why some offences or victims do not reach police attention.",
+                "Identify recording or classification practices.",
+                "Explain how rules affect the counts.",
+                "Identify enforcement or detection differences.",
+                "Explain how attention or resources affect recorded offences."
+              ]
+            },
+            {
+              "q": "<p><b>Item A · original fictional material</b><br>A young person receives a publicly visible deviant label after a minor offence. Employers turn down applications, and the person increasingly relies on a peer group involved in offending.</p>Applying material from Item A, analyse two ways social reaction may contribute to further deviance.",
+              "m": 10,
+              "ms": [],
+              "lor": [
+                [
+                  "9–10",
+                  "Two distinct, accurate and well-developed explanations, each linked directly to the question; item material is analysed where required."
+                ],
+                [
+                  "7–8",
+                  "Two relevant explanations with development and mostly clear application; some links are less precise."
+                ],
+                [
+                  "5–6",
+                  "Some relevant explanation, but one or both chains are incomplete or uneven."
+                ],
+                [
+                  "3–4",
+                  "Limited relevant ideas; mainly descriptions or undeveloped points."
+                ],
+                [
+                  "1–2",
+                  "Minimal relevant material without a clear explanatory chain."
+                ],
+                [
+                  "0",
+                  "No relevant creditworthy response."
+                ]
+              ],
+              "ind": [
+                "Stigma can restrict legitimate opportunities and reshape networks.",
+                "Deviant identities and peer relationships may affect self-concepts and opportunities.",
+                "Explain mechanisms without assuming that every labelled person follows this path."
+              ],
+              "note": "Original indicative guidance, not a point-per-mark checklist. Use a best-fit holistic judgement and credit other accurate, relevant material. For a two-way 10-mark response, a single developed way cannot receive more than 5 marks. Give two distinct explanatory chains; evaluation is not a substitute for explaining them."
+            },
+            {
+              "q": "<p><b>Item B · original fictional material</b><br>Crime-control policies often focus on visible offences in public places. Corporate and state harms may be less visible, while groups differ in their exposure to surveillance and access to protection.</p>Applying material from Item B and your knowledge, evaluate sociological explanations of the relationship between power and crime.",
+              "m": 30,
+              "ms": [],
+              "lor": [
+                [
+                  "25–30",
+                  "Accurate and detailed understanding; sustained application to the question and item where supplied; developed analysis and a reasoned judgement."
+                ],
+                [
+                  "19–24",
+                  "Mostly accurate and relevant understanding, with developed application and analysis; evaluation or judgement has some unevenness."
+                ],
+                [
+                  "13–18",
+                  "Relevant understanding with some application and developed explanation; analysis is intermittent and the overall argument is partial."
+                ],
+                [
+                  "7–12",
+                  "Some relevant knowledge, but application is general and explanation or analysis is limited."
+                ],
+                [
+                  "1–6",
+                  "Fragmented or superficial knowledge with little development or focus on the question."
+                ],
+                [
+                  "0",
+                  "No relevant creditworthy response."
+                ]
+              ],
+              "ind": [
+                "Marxist and critical accounts of law, enforcement and class relations.",
+                "Corporate, state, green and cross-border harms.",
+                "Labelling and selective enforcement.",
+                "Gender, ethnicity, victimisation and unequal protection.",
+                "Alternative accounts involving consensus, strain, opportunity and agency.",
+                "Distinguish offending, criminalisation, recording and harm before reaching a judgement."
+              ],
+              "note": "Original indicative guidance, not a point-per-mark checklist. Use a best-fit holistic judgement and credit other accurate, relevant material. Where an item is provided, use its details in the argument rather than copying it without explanation."
+            }
+          ]
+        },
+        {
+          "title": "Theory and methods",
+          "parts": [
+            {
+              "q": "Outline and explain two practical factors that may influence a sociologist’s choice of research method.",
+              "m": 10,
+              "ms": [],
+              "lor": [
+                [
+                  "9–10",
+                  "Two distinct, accurate and well-developed explanations, each linked directly to the question; item material is analysed where required."
+                ],
+                [
+                  "7–8",
+                  "Two relevant explanations with development and mostly clear application; some links are less precise."
+                ],
+                [
+                  "5–6",
+                  "Some relevant explanation, but one or both chains are incomplete or uneven."
+                ],
+                [
+                  "3–4",
+                  "Limited relevant ideas; mainly descriptions or undeveloped points."
+                ],
+                [
+                  "1–2",
+                  "Minimal relevant material without a clear explanatory chain."
+                ],
+                [
+                  "0",
+                  "No relevant creditworthy response."
+                ]
+              ],
+              "ind": [
+                "Time, finance and availability of trained researchers.",
+                "Access, gatekeepers and characteristics of research populations.",
+                "Develop two distinct chains explaining how the factor affects method choice."
+              ],
+              "note": "Original indicative guidance, not a point-per-mark checklist. Use a best-fit holistic judgement and credit other accurate, relevant material. For a two-way 10-mark response, a single developed way cannot receive more than 5 marks. Give two distinct explanatory chains; evaluation is not a substitute for explaining them."
+            },
+            {
+              "q": "<p><b>Item C · original fictional material</b><br>Some researchers seek measurable regularities and replicable procedures. Others argue that social action involves meanings that change with context. Both approaches must explain how their conclusions can be assessed against evidence.</p>Applying material from Item C and your knowledge, evaluate the view that sociology can be scientific.",
+              "m": 20,
+              "ms": [],
+              "lor": [
+                [
+                  "17–20",
+                  "Accurate and detailed understanding; sustained application to the question and item where supplied; developed analysis and a reasoned judgement."
+                ],
+                [
+                  "13–16",
+                  "Mostly accurate and relevant understanding, with developed application and analysis; evaluation or judgement has some unevenness."
+                ],
+                [
+                  "9–12",
+                  "Relevant understanding with some application and developed explanation; analysis is intermittent and the overall argument is partial."
+                ],
+                [
+                  "5–8",
+                  "Some relevant knowledge, but application is general and explanation or analysis is limited."
+                ],
+                [
+                  "1–4",
+                  "Fragmented or superficial knowledge with little development or focus on the question."
+                ],
+                [
+                  "0",
+                  "No relevant creditworthy response."
+                ]
+              ],
+              "ind": [
+                "Positivism, social facts, measurement and causal explanation.",
+                "Interpretive understanding and meaningful action.",
+                "Reliability, validity, representativeness and transparent methods.",
+                "Testability, reflexivity, open social systems and limits of prediction.",
+                "Values and the difference between an evidence-based account and an unsupported opinion."
+              ],
+              "note": "Original indicative guidance, not a point-per-mark checklist. Use a best-fit holistic judgement and credit other accurate, relevant material. Where an item is provided, use its details in the argument rather than copying it without explanation."
+            }
+          ]
+        }
+      ],
+      "coverage": [
+        "Crime and deviance · 50 marks",
+        "Theory and methods · 30 marks"
+      ]
+    }
+  ],
+  "options": {
+    "culture": {
+      "topic": "culture",
+      "title": "Culture and identity",
+      "stem": "",
+      "parts": [
+        {
+          "q": "Outline and explain two ways agencies of socialisation may shape identity.",
+          "m": 10,
+          "ms": [],
+          "lor": [
+            [
+              "9–10",
+              "Two distinct, accurate and well-developed explanations, each linked directly to the question; item material is analysed where required."
+            ],
+            [
+              "7–8",
+              "Two relevant explanations with development and mostly clear application; some links are less precise."
+            ],
+            [
+              "5–6",
+              "Some relevant explanation, but one or both chains are incomplete or uneven."
+            ],
+            [
+              "3–4",
+              "Limited relevant ideas; mainly descriptions or undeveloped points."
+            ],
+            [
+              "1–2",
+              "Minimal relevant material without a clear explanatory chain."
+            ],
+            [
+              "0",
+              "No relevant creditworthy response."
+            ]
+          ],
+          "ind": [
+            "Agencies and sanctions; interaction and recognition.",
+            "Class, gender, ethnicity, disability and age as intersecting contexts.",
+            "Production, consumption and global cultural circulation.",
+            "Choice, unequal resources and externally imposed categories."
+          ],
+          "note": "Original indicative guidance, not a point-per-mark checklist. Use a best-fit holistic judgement and credit other accurate, relevant material. For a two-way 10-mark response, a single developed way cannot receive more than 5 marks. Give two distinct explanatory chains; evaluation is not a substitute for explaining them."
+        },
+        {
+          "q": "<p><b>Item A · original fictional material</b><br>Workplaces communicate expectations about appearance and conduct. Online communities also provide symbols through which people express belonging. These expectations may be negotiated or resisted.</p>Applying material from Item A, analyse two ways social settings may influence identity.",
+          "m": 10,
+          "ms": [],
+          "lor": [
+            [
+              "9–10",
+              "Two distinct, accurate and well-developed explanations, each linked directly to the question; item material is analysed where required."
+            ],
+            [
+              "7–8",
+              "Two relevant explanations with development and mostly clear application; some links are less precise."
+            ],
+            [
+              "5–6",
+              "Some relevant explanation, but one or both chains are incomplete or uneven."
+            ],
+            [
+              "3–4",
+              "Limited relevant ideas; mainly descriptions or undeveloped points."
+            ],
+            [
+              "1–2",
+              "Minimal relevant material without a clear explanatory chain."
+            ],
+            [
+              "0",
+              "No relevant creditworthy response."
+            ]
+          ],
+          "ind": [
+            "Agencies and sanctions; interaction and recognition.",
+            "Class, gender, ethnicity, disability and age as intersecting contexts.",
+            "Production, consumption and global cultural circulation.",
+            "Choice, unequal resources and externally imposed categories."
+          ],
+          "note": "Original indicative guidance, not a point-per-mark checklist. Use a best-fit holistic judgement and credit other accurate, relevant material. For a two-way 10-mark response, a single developed way cannot receive more than 5 marks. Give two distinct explanatory chains; evaluation is not a substitute for explaining them."
+        },
+        {
+          "q": "<p><b>Item B · original fictional material</b><br>People can select from an expanding range of cultural symbols. However, resources and the classifications imposed by other people may limit those choices.</p>Applying material from Item B and your knowledge, evaluate the view that identity is freely chosen.",
+          "m": 20,
+          "ms": [],
+          "lor": [
+            [
+              "17–20",
+              "Accurate and detailed understanding; sustained application to the question and item where supplied; developed analysis and a reasoned judgement."
+            ],
+            [
+              "13–16",
+              "Mostly accurate and relevant understanding, with developed application and analysis; evaluation or judgement has some unevenness."
+            ],
+            [
+              "9–12",
+              "Relevant understanding with some application and developed explanation; analysis is intermittent and the overall argument is partial."
+            ],
+            [
+              "5–8",
+              "Some relevant knowledge, but application is general and explanation or analysis is limited."
+            ],
+            [
+              "1–4",
+              "Fragmented or superficial knowledge with little development or focus on the question."
+            ],
+            [
+              "0",
+              "No relevant creditworthy response."
+            ]
+          ],
+          "ind": [
+            "Agencies and sanctions; interaction and recognition.",
+            "Class, gender, ethnicity, disability and age as intersecting contexts.",
+            "Production, consumption and global cultural circulation.",
+            "Choice, unequal resources and externally imposed categories."
+          ],
+          "note": "Original indicative guidance, not a point-per-mark checklist. Use a best-fit holistic judgement and credit other accurate, relevant material. Where an item is provided, use its details in the argument rather than copying it without explanation."
+        }
+      ]
+    },
+    "families": {
+      "topic": "families",
+      "title": "Families and households",
+      "stem": "",
+      "parts": [
+        {
+          "q": "Outline and explain two ways demographic change may affect family relationships.",
+          "m": 10,
+          "ms": [],
+          "lor": [
+            [
+              "9–10",
+              "Two distinct, accurate and well-developed explanations, each linked directly to the question; item material is analysed where required."
+            ],
+            [
+              "7–8",
+              "Two relevant explanations with development and mostly clear application; some links are less precise."
+            ],
+            [
+              "5–6",
+              "Some relevant explanation, but one or both chains are incomplete or uneven."
+            ],
+            [
+              "3–4",
+              "Limited relevant ideas; mainly descriptions or undeveloped points."
+            ],
+            [
+              "1–2",
+              "Minimal relevant material without a clear explanatory chain."
+            ],
+            [
+              "0",
+              "No relevant creditworthy response."
+            ]
+          ],
+          "ind": [
+            "Life course, care and intergenerational relationships.",
+            "Paid work versus domestic, emotional and organisational labour.",
+            "Feminist, functionalist and personal-life perspectives.",
+            "Power, diversity and variation between households."
+          ],
+          "note": "Original indicative guidance, not a point-per-mark checklist. Use a best-fit holistic judgement and credit other accurate, relevant material. For a two-way 10-mark response, a single developed way cannot receive more than 5 marks. Give two distinct explanatory chains; evaluation is not a substitute for explaining them."
+        },
+        {
+          "q": "<p><b>Item A · original fictional material</b><br>More partners participate in paid employment. However, the responsibility for planning care and control over household money may remain uneven.</p>Applying material from Item A, analyse two reasons why participation in paid work may not establish equality within families.",
+          "m": 10,
+          "ms": [],
+          "lor": [
+            [
+              "9–10",
+              "Two distinct, accurate and well-developed explanations, each linked directly to the question; item material is analysed where required."
+            ],
+            [
+              "7–8",
+              "Two relevant explanations with development and mostly clear application; some links are less precise."
+            ],
+            [
+              "5–6",
+              "Some relevant explanation, but one or both chains are incomplete or uneven."
+            ],
+            [
+              "3–4",
+              "Limited relevant ideas; mainly descriptions or undeveloped points."
+            ],
+            [
+              "1–2",
+              "Minimal relevant material without a clear explanatory chain."
+            ],
+            [
+              "0",
+              "No relevant creditworthy response."
+            ]
+          ],
+          "ind": [
+            "Life course, care and intergenerational relationships.",
+            "Paid work versus domestic, emotional and organisational labour.",
+            "Feminist, functionalist and personal-life perspectives.",
+            "Power, diversity and variation between households."
+          ],
+          "note": "Original indicative guidance, not a point-per-mark checklist. Use a best-fit holistic judgement and credit other accurate, relevant material. For a two-way 10-mark response, a single developed way cannot receive more than 5 marks. Give two distinct explanatory chains; evaluation is not a substitute for explaining them."
+        },
+        {
+          "q": "<p><b>Item B · original fictional material</b><br>Some accounts describe family relationships as increasingly negotiated and diverse. Other accounts emphasise continuing inequalities in domestic labour, resources and decision-making.</p>Applying material from Item B and your knowledge, evaluate the view that family relationships are now equal.",
+          "m": 20,
+          "ms": [],
+          "lor": [
+            [
+              "17–20",
+              "Accurate and detailed understanding; sustained application to the question and item where supplied; developed analysis and a reasoned judgement."
+            ],
+            [
+              "13–16",
+              "Mostly accurate and relevant understanding, with developed application and analysis; evaluation or judgement has some unevenness."
+            ],
+            [
+              "9–12",
+              "Relevant understanding with some application and developed explanation; analysis is intermittent and the overall argument is partial."
+            ],
+            [
+              "5–8",
+              "Some relevant knowledge, but application is general and explanation or analysis is limited."
+            ],
+            [
+              "1–4",
+              "Fragmented or superficial knowledge with little development or focus on the question."
+            ],
+            [
+              "0",
+              "No relevant creditworthy response."
+            ]
+          ],
+          "ind": [
+            "Life course, care and intergenerational relationships.",
+            "Paid work versus domestic, emotional and organisational labour.",
+            "Feminist, functionalist and personal-life perspectives.",
+            "Power, diversity and variation between households."
+          ],
+          "note": "Original indicative guidance, not a point-per-mark checklist. Use a best-fit holistic judgement and credit other accurate, relevant material. Where an item is provided, use its details in the argument rather than copying it without explanation."
+        }
+      ]
+    },
+    "health": {
+      "topic": "health",
+      "title": "Health",
+      "stem": "",
+      "parts": [
+        {
+          "q": "Outline and explain two material explanations of unequal health chances.",
+          "m": 10,
+          "ms": [],
+          "lor": [
+            [
+              "9–10",
+              "Two distinct, accurate and well-developed explanations, each linked directly to the question; item material is analysed where required."
+            ],
+            [
+              "7–8",
+              "Two relevant explanations with development and mostly clear application; some links are less precise."
+            ],
+            [
+              "5–6",
+              "Some relevant explanation, but one or both chains are incomplete or uneven."
+            ],
+            [
+              "3–4",
+              "Limited relevant ideas; mainly descriptions or undeveloped points."
+            ],
+            [
+              "1–2",
+              "Minimal relevant material without a clear explanatory chain."
+            ],
+            [
+              "0",
+              "No relevant creditworthy response."
+            ]
+          ],
+          "ind": [
+            "Housing, working conditions and resources.",
+            "Digital, physical, time and informational barriers.",
+            "Biomedical and social models; professional authority and medicalisation.",
+            "Patient agency, benefits of expertise and global commercial interests."
+          ],
+          "note": "Original indicative guidance, not a point-per-mark checklist. Use a best-fit holistic judgement and credit other accurate, relevant material. For a two-way 10-mark response, a single developed way cannot receive more than 5 marks. Give two distinct explanatory chains; evaluation is not a substitute for explaining them."
+        },
+        {
+          "q": "<p><b>Item A · original fictional material</b><br>A clinic offers the same formal entitlement to everyone. Appointments must be booked online, and the opening times overlap with many insecure jobs.</p>Applying material from Item A, analyse two ways access to healthcare may be unequal.",
+          "m": 10,
+          "ms": [],
+          "lor": [
+            [
+              "9–10",
+              "Two distinct, accurate and well-developed explanations, each linked directly to the question; item material is analysed where required."
+            ],
+            [
+              "7–8",
+              "Two relevant explanations with development and mostly clear application; some links are less precise."
+            ],
+            [
+              "5–6",
+              "Some relevant explanation, but one or both chains are incomplete or uneven."
+            ],
+            [
+              "3–4",
+              "Limited relevant ideas; mainly descriptions or undeveloped points."
+            ],
+            [
+              "1–2",
+              "Minimal relevant material without a clear explanatory chain."
+            ],
+            [
+              "0",
+              "No relevant creditworthy response."
+            ]
+          ],
+          "ind": [
+            "Housing, working conditions and resources.",
+            "Digital, physical, time and informational barriers.",
+            "Biomedical and social models; professional authority and medicalisation.",
+            "Patient agency, benefits of expertise and global commercial interests."
+          ],
+          "note": "Original indicative guidance, not a point-per-mark checklist. Use a best-fit holistic judgement and credit other accurate, relevant material. For a two-way 10-mark response, a single developed way cannot receive more than 5 marks. Give two distinct explanatory chains; evaluation is not a substitute for explaining them."
+        },
+        {
+          "q": "<p><b>Item B · original fictional material</b><br>Medical expertise can improve health and offer reassurance. Professional definitions may also extend authority over everyday experiences, while resources affect who can obtain care.</p>Applying material from Item B and your knowledge, evaluate sociological explanations of the power of medicine.",
+          "m": 20,
+          "ms": [],
+          "lor": [
+            [
+              "17–20",
+              "Accurate and detailed understanding; sustained application to the question and item where supplied; developed analysis and a reasoned judgement."
+            ],
+            [
+              "13–16",
+              "Mostly accurate and relevant understanding, with developed application and analysis; evaluation or judgement has some unevenness."
+            ],
+            [
+              "9–12",
+              "Relevant understanding with some application and developed explanation; analysis is intermittent and the overall argument is partial."
+            ],
+            [
+              "5–8",
+              "Some relevant knowledge, but application is general and explanation or analysis is limited."
+            ],
+            [
+              "1–4",
+              "Fragmented or superficial knowledge with little development or focus on the question."
+            ],
+            [
+              "0",
+              "No relevant creditworthy response."
+            ]
+          ],
+          "ind": [
+            "Housing, working conditions and resources.",
+            "Digital, physical, time and informational barriers.",
+            "Biomedical and social models; professional authority and medicalisation.",
+            "Patient agency, benefits of expertise and global commercial interests."
+          ],
+          "note": "Original indicative guidance, not a point-per-mark checklist. Use a best-fit holistic judgement and credit other accurate, relevant material. Where an item is provided, use its details in the argument rather than copying it without explanation."
+        }
+      ]
+    },
+    "work": {
+      "topic": "work",
+      "title": "Work, poverty and welfare",
+      "stem": "",
+      "parts": [
+        {
+          "q": "Outline and explain two reasons why income alone may not measure poverty adequately.",
+          "m": 10,
+          "ms": [],
+          "lor": [
+            [
+              "9–10",
+              "Two distinct, accurate and well-developed explanations, each linked directly to the question; item material is analysed where required."
+            ],
+            [
+              "7–8",
+              "Two relevant explanations with development and mostly clear application; some links are less precise."
+            ],
+            [
+              "5–6",
+              "Some relevant explanation, but one or both chains are incomplete or uneven."
+            ],
+            [
+              "3–4",
+              "Limited relevant ideas; mainly descriptions or undeveloped points."
+            ],
+            [
+              "1–2",
+              "Minimal relevant material without a clear explanatory chain."
+            ],
+            [
+              "0",
+              "No relevant creditworthy response."
+            ]
+          ],
+          "ind": [
+            "Income, wealth, housing costs and relative deprivation.",
+            "Algorithmic management, surveillance and bargaining power.",
+            "Division of labour, deskilling and reskilling.",
+            "Unequal effects; paid and unpaid work; welfare and global restructuring."
+          ],
+          "note": "Original indicative guidance, not a point-per-mark checklist. Use a best-fit holistic judgement and credit other accurate, relevant material. For a two-way 10-mark response, a single developed way cannot receive more than 5 marks. Give two distinct explanatory chains; evaluation is not a substitute for explaining them."
+        },
+        {
+          "q": "<p><b>Item A · original fictional material</b><br>Digital systems allocate tasks and track workers continuously. Work can be offered at short notice, leaving workers with uncertain hours and limited opportunities to challenge decisions.</p>Applying material from Item A, analyse two ways technology may affect workers’ control over their work.",
+          "m": 10,
+          "ms": [],
+          "lor": [
+            [
+              "9–10",
+              "Two distinct, accurate and well-developed explanations, each linked directly to the question; item material is analysed where required."
+            ],
+            [
+              "7–8",
+              "Two relevant explanations with development and mostly clear application; some links are less precise."
+            ],
+            [
+              "5–6",
+              "Some relevant explanation, but one or both chains are incomplete or uneven."
+            ],
+            [
+              "3–4",
+              "Limited relevant ideas; mainly descriptions or undeveloped points."
+            ],
+            [
+              "1–2",
+              "Minimal relevant material without a clear explanatory chain."
+            ],
+            [
+              "0",
+              "No relevant creditworthy response."
+            ]
+          ],
+          "ind": [
+            "Income, wealth, housing costs and relative deprivation.",
+            "Algorithmic management, surveillance and bargaining power.",
+            "Division of labour, deskilling and reskilling.",
+            "Unequal effects; paid and unpaid work; welfare and global restructuring."
+          ],
+          "note": "Original indicative guidance, not a point-per-mark checklist. Use a best-fit holistic judgement and credit other accurate, relevant material. For a two-way 10-mark response, a single developed way cannot receive more than 5 marks. Give two distinct explanatory chains; evaluation is not a substitute for explaining them."
+        },
+        {
+          "q": "<p><b>Item B · original fictional material</b><br>Some argue that new technology improves skills and flexibility. Others argue that it enables deskilling, surveillance and insecure employment within global production networks.</p>Applying material from Item B and your knowledge, evaluate the view that technological change improves workers’ lives.",
+          "m": 20,
+          "ms": [],
+          "lor": [
+            [
+              "17–20",
+              "Accurate and detailed understanding; sustained application to the question and item where supplied; developed analysis and a reasoned judgement."
+            ],
+            [
+              "13–16",
+              "Mostly accurate and relevant understanding, with developed application and analysis; evaluation or judgement has some unevenness."
+            ],
+            [
+              "9–12",
+              "Relevant understanding with some application and developed explanation; analysis is intermittent and the overall argument is partial."
+            ],
+            [
+              "5–8",
+              "Some relevant knowledge, but application is general and explanation or analysis is limited."
+            ],
+            [
+              "1–4",
+              "Fragmented or superficial knowledge with little development or focus on the question."
+            ],
+            [
+              "0",
+              "No relevant creditworthy response."
+            ]
+          ],
+          "ind": [
+            "Income, wealth, housing costs and relative deprivation.",
+            "Algorithmic management, surveillance and bargaining power.",
+            "Division of labour, deskilling and reskilling.",
+            "Unequal effects; paid and unpaid work; welfare and global restructuring."
+          ],
+          "note": "Original indicative guidance, not a point-per-mark checklist. Use a best-fit holistic judgement and credit other accurate, relevant material. Where an item is provided, use its details in the argument rather than copying it without explanation."
+        }
+      ]
+    },
+    "beliefs": {
+      "topic": "beliefs",
+      "title": "Beliefs in society",
+      "stem": "",
+      "parts": [
+        {
+          "q": "Outline and explain two reasons religious organisations may attract different social groups.",
+          "m": 10,
+          "ms": [],
+          "lor": [
+            [
+              "9–10",
+              "Two distinct, accurate and well-developed explanations, each linked directly to the question; item material is analysed where required."
+            ],
+            [
+              "7–8",
+              "Two relevant explanations with development and mostly clear application; some links are less precise."
+            ],
+            [
+              "5–6",
+              "Some relevant explanation, but one or both chains are incomplete or uneven."
+            ],
+            [
+              "3–4",
+              "Limited relevant ideas; mainly descriptions or undeveloped points."
+            ],
+            [
+              "1–2",
+              "Minimal relevant material without a clear explanatory chain."
+            ],
+            [
+              "0",
+              "No relevant creditworthy response."
+            ]
+          ],
+          "ind": [
+            "Affiliation, attendance and belief as different measures.",
+            "Socialisation, networks, migration and life-course/cohort differences.",
+            "Secularisation dimensions and evidence limits.",
+            "Pluralism, spiritual change, organisations and global diversity."
+          ],
+          "note": "Original indicative guidance, not a point-per-mark checklist. Use a best-fit holistic judgement and credit other accurate, relevant material. For a two-way 10-mark response, a single developed way cannot receive more than 5 marks. Give two distinct explanatory chains; evaluation is not a substitute for explaining them."
+        },
+        {
+          "q": "<p><b>Item A · original fictional material</b><br>Some people participate less often in established religious institutions. At the same time, migration and digital networks can connect people with new organisations and forms of spirituality.</p>Applying material from Item A, analyse two ways globalisation may change religious participation.",
+          "m": 10,
+          "ms": [],
+          "lor": [
+            [
+              "9–10",
+              "Two distinct, accurate and well-developed explanations, each linked directly to the question; item material is analysed where required."
+            ],
+            [
+              "7–8",
+              "Two relevant explanations with development and mostly clear application; some links are less precise."
+            ],
+            [
+              "5–6",
+              "Some relevant explanation, but one or both chains are incomplete or uneven."
+            ],
+            [
+              "3–4",
+              "Limited relevant ideas; mainly descriptions or undeveloped points."
+            ],
+            [
+              "1–2",
+              "Minimal relevant material without a clear explanatory chain."
+            ],
+            [
+              "0",
+              "No relevant creditworthy response."
+            ]
+          ],
+          "ind": [
+            "Affiliation, attendance and belief as different measures.",
+            "Socialisation, networks, migration and life-course/cohort differences.",
+            "Secularisation dimensions and evidence limits.",
+            "Pluralism, spiritual change, organisations and global diversity."
+          ],
+          "note": "Original indicative guidance, not a point-per-mark checklist. Use a best-fit holistic judgement and credit other accurate, relevant material. For a two-way 10-mark response, a single developed way cannot receive more than 5 marks. Give two distinct explanatory chains; evaluation is not a substitute for explaining them."
+        },
+        {
+          "q": "<p><b>Item B · original fictional material</b><br>Declining authority and membership in some institutions are used as evidence of secularisation. Other sociologists emphasise changing belief, religious diversity and the importance of context.</p>Applying material from Item B and your knowledge, evaluate the view that religion is losing its social significance.",
+          "m": 20,
+          "ms": [],
+          "lor": [
+            [
+              "17–20",
+              "Accurate and detailed understanding; sustained application to the question and item where supplied; developed analysis and a reasoned judgement."
+            ],
+            [
+              "13–16",
+              "Mostly accurate and relevant understanding, with developed application and analysis; evaluation or judgement has some unevenness."
+            ],
+            [
+              "9–12",
+              "Relevant understanding with some application and developed explanation; analysis is intermittent and the overall argument is partial."
+            ],
+            [
+              "5–8",
+              "Some relevant knowledge, but application is general and explanation or analysis is limited."
+            ],
+            [
+              "1–4",
+              "Fragmented or superficial knowledge with little development or focus on the question."
+            ],
+            [
+              "0",
+              "No relevant creditworthy response."
+            ]
+          ],
+          "ind": [
+            "Affiliation, attendance and belief as different measures.",
+            "Socialisation, networks, migration and life-course/cohort differences.",
+            "Secularisation dimensions and evidence limits.",
+            "Pluralism, spiritual change, organisations and global diversity."
+          ],
+          "note": "Original indicative guidance, not a point-per-mark checklist. Use a best-fit holistic judgement and credit other accurate, relevant material. Where an item is provided, use its details in the argument rather than copying it without explanation."
+        }
+      ]
+    },
+    "development": {
+      "topic": "development",
+      "title": "Global development",
+      "stem": "",
+      "parts": [
+        {
+          "q": "Outline and explain two limitations of using average national income as a measure of development.",
+          "m": 10,
+          "ms": [],
+          "lor": [
+            [
+              "9–10",
+              "Two distinct, accurate and well-developed explanations, each linked directly to the question; item material is analysed where required."
+            ],
+            [
+              "7–8",
+              "Two relevant explanations with development and mostly clear application; some links are less precise."
+            ],
+            [
+              "5–6",
+              "Some relevant explanation, but one or both chains are incomplete or uneven."
+            ],
+            [
+              "3–4",
+              "Limited relevant ideas; mainly descriptions or undeveloped points."
+            ],
+            [
+              "1–2",
+              "Minimal relevant material without a clear explanatory chain."
+            ],
+            [
+              "0",
+              "No relevant creditworthy response."
+            ]
+          ],
+          "ind": [
+            "Distribution, capabilities, unpaid work and environmental costs.",
+            "Employment, technology, profit flows and unequal bargaining power.",
+            "Modernisation, dependency and world-systems explanations.",
+            "Aid, trade, state capacity, participation and sustainability."
+          ],
+          "note": "Original indicative guidance, not a point-per-mark checklist. Use a best-fit holistic judgement and credit other accurate, relevant material. For a two-way 10-mark response, a single developed way cannot receive more than 5 marks. Give two distinct explanatory chains; evaluation is not a substitute for explaining them."
+        },
+        {
+          "q": "<p><b>Item A · original fictional material</b><br>A transnational firm builds a factory and offers paid jobs. Some profits leave the host economy, and local residents raise concerns about environmental damage.</p>Applying material from Item A, analyse two ways transnational corporations may affect development.",
+          "m": 10,
+          "ms": [],
+          "lor": [
+            [
+              "9–10",
+              "Two distinct, accurate and well-developed explanations, each linked directly to the question; item material is analysed where required."
+            ],
+            [
+              "7–8",
+              "Two relevant explanations with development and mostly clear application; some links are less precise."
+            ],
+            [
+              "5–6",
+              "Some relevant explanation, but one or both chains are incomplete or uneven."
+            ],
+            [
+              "3–4",
+              "Limited relevant ideas; mainly descriptions or undeveloped points."
+            ],
+            [
+              "1–2",
+              "Minimal relevant material without a clear explanatory chain."
+            ],
+            [
+              "0",
+              "No relevant creditworthy response."
+            ]
+          ],
+          "ind": [
+            "Distribution, capabilities, unpaid work and environmental costs.",
+            "Employment, technology, profit flows and unequal bargaining power.",
+            "Modernisation, dependency and world-systems explanations.",
+            "Aid, trade, state capacity, participation and sustainability."
+          ],
+          "note": "Original indicative guidance, not a point-per-mark checklist. Use a best-fit holistic judgement and credit other accurate, relevant material. For a two-way 10-mark response, a single developed way cannot receive more than 5 marks. Give two distinct explanatory chains; evaluation is not a substitute for explaining them."
+        },
+        {
+          "q": "<p><b>Item B · original fictional material</b><br>Aid can support infrastructure, health and education. However, projects can also reflect donor priorities and create dependencies while trade, conflict and domestic institutions affect outcomes.</p>Applying material from Item B and your knowledge, evaluate the view that aid is the most effective route to development.",
+          "m": 20,
+          "ms": [],
+          "lor": [
+            [
+              "17–20",
+              "Accurate and detailed understanding; sustained application to the question and item where supplied; developed analysis and a reasoned judgement."
+            ],
+            [
+              "13–16",
+              "Mostly accurate and relevant understanding, with developed application and analysis; evaluation or judgement has some unevenness."
+            ],
+            [
+              "9–12",
+              "Relevant understanding with some application and developed explanation; analysis is intermittent and the overall argument is partial."
+            ],
+            [
+              "5–8",
+              "Some relevant knowledge, but application is general and explanation or analysis is limited."
+            ],
+            [
+              "1–4",
+              "Fragmented or superficial knowledge with little development or focus on the question."
+            ],
+            [
+              "0",
+              "No relevant creditworthy response."
+            ]
+          ],
+          "ind": [
+            "Distribution, capabilities, unpaid work and environmental costs.",
+            "Employment, technology, profit flows and unequal bargaining power.",
+            "Modernisation, dependency and world-systems explanations.",
+            "Aid, trade, state capacity, participation and sustainability."
+          ],
+          "note": "Original indicative guidance, not a point-per-mark checklist. Use a best-fit holistic judgement and credit other accurate, relevant material. Where an item is provided, use its details in the argument rather than copying it without explanation."
+        }
+      ]
+    },
+    "media": {
+      "topic": "media",
+      "title": "The media",
+      "stem": "",
+      "parts": [
+        {
+          "q": "Outline and explain two organisational influences on news selection.",
+          "m": 10,
+          "ms": [],
+          "lor": [
+            [
+              "9–10",
+              "Two distinct, accurate and well-developed explanations, each linked directly to the question; item material is analysed where required."
+            ],
+            [
+              "7–8",
+              "Two relevant explanations with development and mostly clear application; some links are less precise."
+            ],
+            [
+              "5–6",
+              "Some relevant explanation, but one or both chains are incomplete or uneven."
+            ],
+            [
+              "3–4",
+              "Limited relevant ideas; mainly descriptions or undeveloped points."
+            ],
+            [
+              "1–2",
+              "Minimal relevant material without a clear explanatory chain."
+            ],
+            [
+              "0",
+              "No relevant creditworthy response."
+            ]
+          ],
+          "ind": [
+            "Deadlines, sources, news values, budgets and ownership.",
+            "Algorithmic visibility and social interaction.",
+            "Direct-effects, active-audience and reception approaches.",
+            "Representation, power, global culture and limits of audience autonomy."
+          ],
+          "note": "Original indicative guidance, not a point-per-mark checklist. Use a best-fit holistic judgement and credit other accurate, relevant material. For a two-way 10-mark response, a single developed way cannot receive more than 5 marks. Give two distinct explanatory chains; evaluation is not a substitute for explaining them."
+        },
+        {
+          "q": "<p><b>Item A · original fictional material</b><br>Users can select many sources and create their own content. Platform algorithms and peer networks nevertheless influence which messages become most visible.</p>Applying material from Item A, analyse two influences on audiences’ interpretations of media content.",
+          "m": 10,
+          "ms": [],
+          "lor": [
+            [
+              "9–10",
+              "Two distinct, accurate and well-developed explanations, each linked directly to the question; item material is analysed where required."
+            ],
+            [
+              "7–8",
+              "Two relevant explanations with development and mostly clear application; some links are less precise."
+            ],
+            [
+              "5–6",
+              "Some relevant explanation, but one or both chains are incomplete or uneven."
+            ],
+            [
+              "3–4",
+              "Limited relevant ideas; mainly descriptions or undeveloped points."
+            ],
+            [
+              "1–2",
+              "Minimal relevant material without a clear explanatory chain."
+            ],
+            [
+              "0",
+              "No relevant creditworthy response."
+            ]
+          ],
+          "ind": [
+            "Deadlines, sources, news values, budgets and ownership.",
+            "Algorithmic visibility and social interaction.",
+            "Direct-effects, active-audience and reception approaches.",
+            "Representation, power, global culture and limits of audience autonomy."
+          ],
+          "note": "Original indicative guidance, not a point-per-mark checklist. Use a best-fit holistic judgement and credit other accurate, relevant material. For a two-way 10-mark response, a single developed way cannot receive more than 5 marks. Give two distinct explanatory chains; evaluation is not a substitute for explaining them."
+        },
+        {
+          "q": "<p><b>Item B · original fictional material</b><br>Some explanations treat audiences as strongly influenced by messages. Others emphasise social context, selective use and dominant, negotiated or oppositional readings.</p>Applying material from Item B and your knowledge, evaluate the view that media audiences actively construct meanings.",
+          "m": 20,
+          "ms": [],
+          "lor": [
+            [
+              "17–20",
+              "Accurate and detailed understanding; sustained application to the question and item where supplied; developed analysis and a reasoned judgement."
+            ],
+            [
+              "13–16",
+              "Mostly accurate and relevant understanding, with developed application and analysis; evaluation or judgement has some unevenness."
+            ],
+            [
+              "9–12",
+              "Relevant understanding with some application and developed explanation; analysis is intermittent and the overall argument is partial."
+            ],
+            [
+              "5–8",
+              "Some relevant knowledge, but application is general and explanation or analysis is limited."
+            ],
+            [
+              "1–4",
+              "Fragmented or superficial knowledge with little development or focus on the question."
+            ],
+            [
+              "0",
+              "No relevant creditworthy response."
+            ]
+          ],
+          "ind": [
+            "Deadlines, sources, news values, budgets and ownership.",
+            "Algorithmic visibility and social interaction.",
+            "Direct-effects, active-audience and reception approaches.",
+            "Representation, power, global culture and limits of audience autonomy."
+          ],
+          "note": "Original indicative guidance, not a point-per-mark checklist. Use a best-fit holistic judgement and credit other accurate, relevant material. Where an item is provided, use its details in the argument rather than copying it without explanation."
+        }
+      ]
+    },
+    "stratification": {
+      "topic": "stratification",
+      "title": "Stratification and differentiation",
+      "stem": "",
+      "parts": [
+        {
+          "q": "Outline and explain two ways family resources may influence life chances.",
+          "m": 10,
+          "ms": [],
+          "lor": [
+            [
+              "9–10",
+              "Two distinct, accurate and well-developed explanations, each linked directly to the question; item material is analysed where required."
+            ],
+            [
+              "7–8",
+              "Two relevant explanations with development and mostly clear application; some links are less precise."
+            ],
+            [
+              "5–6",
+              "Some relevant explanation, but one or both chains are incomplete or uneven."
+            ],
+            [
+              "3–4",
+              "Limited relevant ideas; mainly descriptions or undeveloped points."
+            ],
+            [
+              "1–2",
+              "Minimal relevant material without a clear explanatory chain."
+            ],
+            [
+              "0",
+              "No relevant creditworthy response."
+            ]
+          ],
+          "ind": [
+            "Economic, cultural and social resources.",
+            "Absolute versus relative mobility; structural change versus equal chances.",
+            "Class, status, power and different class measures.",
+            "Gender, ethnicity, age, disability and transnational inequalities."
+          ],
+          "note": "Original indicative guidance, not a point-per-mark checklist. Use a best-fit holistic judgement and credit other accurate, relevant material. For a two-way 10-mark response, a single developed way cannot receive more than 5 marks. Give two distinct explanatory chains; evaluation is not a substitute for explaining them."
+        },
+        {
+          "q": "<p><b>Item A · original fictional material</b><br>Professional employment has expanded, allowing many people to enter occupations above those of their parents. However, access to inherited wealth and influential networks remains unequal.</p>Applying material from Item A, analyse two reasons why rising upward mobility may coexist with class inequality.",
+          "m": 10,
+          "ms": [],
+          "lor": [
+            [
+              "9–10",
+              "Two distinct, accurate and well-developed explanations, each linked directly to the question; item material is analysed where required."
+            ],
+            [
+              "7–8",
+              "Two relevant explanations with development and mostly clear application; some links are less precise."
+            ],
+            [
+              "5–6",
+              "Some relevant explanation, but one or both chains are incomplete or uneven."
+            ],
+            [
+              "3–4",
+              "Limited relevant ideas; mainly descriptions or undeveloped points."
+            ],
+            [
+              "1–2",
+              "Minimal relevant material without a clear explanatory chain."
+            ],
+            [
+              "0",
+              "No relevant creditworthy response."
+            ]
+          ],
+          "ind": [
+            "Economic, cultural and social resources.",
+            "Absolute versus relative mobility; structural change versus equal chances.",
+            "Class, status, power and different class measures.",
+            "Gender, ethnicity, age, disability and transnational inequalities."
+          ],
+          "note": "Original indicative guidance, not a point-per-mark checklist. Use a best-fit holistic judgement and credit other accurate, relevant material. For a two-way 10-mark response, a single developed way cannot receive more than 5 marks. Give two distinct explanatory chains; evaluation is not a substitute for explaining them."
+        },
+        {
+          "q": "<p><b>Item B · original fictional material</b><br>Some accounts argue that education and occupational change weaken the importance of class origins. Others emphasise ownership, inheritance and intersecting inequalities in contemporary and global society.</p>Applying material from Item B and your knowledge, evaluate the view that social class is becoming less important.",
+          "m": 20,
+          "ms": [],
+          "lor": [
+            [
+              "17–20",
+              "Accurate and detailed understanding; sustained application to the question and item where supplied; developed analysis and a reasoned judgement."
+            ],
+            [
+              "13–16",
+              "Mostly accurate and relevant understanding, with developed application and analysis; evaluation or judgement has some unevenness."
+            ],
+            [
+              "9–12",
+              "Relevant understanding with some application and developed explanation; analysis is intermittent and the overall argument is partial."
+            ],
+            [
+              "5–8",
+              "Some relevant knowledge, but application is general and explanation or analysis is limited."
+            ],
+            [
+              "1–4",
+              "Fragmented or superficial knowledge with little development or focus on the question."
+            ],
+            [
+              "0",
+              "No relevant creditworthy response."
+            ]
+          ],
+          "ind": [
+            "Economic, cultural and social resources.",
+            "Absolute versus relative mobility; structural change versus equal chances.",
+            "Class, status, power and different class measures.",
+            "Gender, ethnicity, age, disability and transnational inequalities."
+          ],
+          "note": "Original indicative guidance, not a point-per-mark checklist. Use a best-fit holistic judgement and credit other accurate, relevant material. Where an item is provided, use its details in the argument rather than copying it without explanation."
+        }
+      ]
+    }
+  },
+  "essays": {
+    "education": {
+      "title": "Education",
+      "question": {
+        "q": "<p><b>Item B · original fictional material</b><br>Schools assess achievement through qualifications and describe success as the result of effort. However, pupils bring different resources and may experience different expectations within school.</p>Applying material from Item B and your knowledge, evaluate the view that education provides equal opportunities for all pupils.",
+        "m": 30,
+        "ms": [],
+        "lor": [
+          [
+            "25–30",
+            "Accurate and detailed understanding; sustained application to the question and item where supplied; developed analysis and a reasoned judgement."
+          ],
+          [
+            "19–24",
+            "Mostly accurate and relevant understanding, with developed application and analysis; evaluation or judgement has some unevenness."
+          ],
+          [
+            "13–18",
+            "Relevant understanding with some application and developed explanation; analysis is intermittent and the overall argument is partial."
+          ],
+          [
+            "7–12",
+            "Some relevant knowledge, but application is general and explanation or analysis is limited."
+          ],
+          [
+            "1–6",
+            "Fragmented or superficial knowledge with little development or focus on the question."
+          ],
+          [
+            "0",
+            "No relevant creditworthy response."
+          ]
+        ],
+        "ind": [
+          "Functionalist accounts of universalistic standards and role allocation.",
+          "Material conditions and cultural capital.",
+          "Gender, ethnicity, institutional racism and intersectional differences.",
+          "Labelling, subcultures and school organisation.",
+          "Selection, marketisation and unequal capacity to exercise choice.",
+          "A reasoned judgement distinguishing formal rules, opportunity and outcomes."
+        ],
+        "note": "Original indicative guidance, not a point-per-mark checklist. Use a best-fit holistic judgement and credit other accurate, relevant material. Where an item is provided, use its details in the argument rather than copying it without explanation."
+      }
+    },
+    "methods": {
+      "title": "Research methods and methods in context",
+      "question": {
+        "q": "<p><b>Item C · original fictional material</b><br>A researcher wants to understand how pupils experience being moved between teaching groups. A school offers access to group interviews during a lesson. Teachers want to know which pupils criticised the system, while some pupils are concerned about discussing their experiences in front of classmates.</p>Applying material from Item C and your knowledge of research methods, evaluate the strengths and limitations of using group interviews to investigate pupils’ experiences of teaching groups.",
+        "m": 20,
+        "ms": [],
+        "lor": [
+          [
+            "17–20",
+            "Accurate and detailed understanding; sustained application to the question and item where supplied; developed analysis and a reasoned judgement."
+          ],
+          [
+            "13–16",
+            "Mostly accurate and relevant understanding, with developed application and analysis; evaluation or judgement has some unevenness."
+          ],
+          [
+            "9–12",
+            "Relevant understanding with some application and developed explanation; analysis is intermittent and the overall argument is partial."
+          ],
+          [
+            "5–8",
+            "Some relevant knowledge, but application is general and explanation or analysis is limited."
+          ],
+          [
+            "1–4",
+            "Fragmented or superficial knowledge with little development or focus on the question."
+          ],
+          [
+            "0",
+            "No relevant creditworthy response."
+          ]
+        ],
+        "ind": [
+          "Interaction may prompt discussion and clarify meanings, but peers can silence dissent.",
+          "Existing class relationships and labels can shape disclosure and confidentiality risks.",
+          "Gatekeeper access does not replace pupils’ voluntary consent.",
+          "Teacher requests threaten confidentiality and trust; explain appropriate limits and safeguarding.",
+          "Lesson time, age-appropriate questions and power differences affect practicality and validity.",
+          "Compare what this design can reveal with limitations and feasible alternatives; remain focused on this educational context."
+        ],
+        "note": "Original indicative guidance, not a point-per-mark checklist. Use a best-fit holistic judgement and credit other accurate, relevant material. Where an item is provided, use its details in the argument rather than copying it without explanation."
+      }
+    },
+    "theory": {
+      "title": "Sociological theory and debates",
+      "question": {
+        "q": "<p><b>Item C · original fictional material</b><br>Some researchers seek measurable regularities and replicable procedures. Others argue that social action involves meanings that change with context. Both approaches must explain how their conclusions can be assessed against evidence.</p>Applying material from Item C and your knowledge, evaluate the view that sociology can be scientific.",
+        "m": 20,
+        "ms": [],
+        "lor": [
+          [
+            "17–20",
+            "Accurate and detailed understanding; sustained application to the question and item where supplied; developed analysis and a reasoned judgement."
+          ],
+          [
+            "13–16",
+            "Mostly accurate and relevant understanding, with developed application and analysis; evaluation or judgement has some unevenness."
+          ],
+          [
+            "9–12",
+            "Relevant understanding with some application and developed explanation; analysis is intermittent and the overall argument is partial."
+          ],
+          [
+            "5–8",
+            "Some relevant knowledge, but application is general and explanation or analysis is limited."
+          ],
+          [
+            "1–4",
+            "Fragmented or superficial knowledge with little development or focus on the question."
+          ],
+          [
+            "0",
+            "No relevant creditworthy response."
+          ]
+        ],
+        "ind": [
+          "Positivism, social facts, measurement and causal explanation.",
+          "Interpretive understanding and meaningful action.",
+          "Reliability, validity, representativeness and transparent methods.",
+          "Testability, reflexivity, open social systems and limits of prediction.",
+          "Values and the difference between an evidence-based account and an unsupported opinion."
+        ],
+        "note": "Original indicative guidance, not a point-per-mark checklist. Use a best-fit holistic judgement and credit other accurate, relevant material. Where an item is provided, use its details in the argument rather than copying it without explanation."
+      }
+    },
+    "crime": {
+      "title": "Crime and deviance",
+      "question": {
+        "q": "<p><b>Item B · original fictional material</b><br>Crime-control policies often focus on visible offences in public places. Corporate and state harms may be less visible, while groups differ in their exposure to surveillance and access to protection.</p>Applying material from Item B and your knowledge, evaluate sociological explanations of the relationship between power and crime.",
+        "m": 30,
+        "ms": [],
+        "lor": [
+          [
+            "25–30",
+            "Accurate and detailed understanding; sustained application to the question and item where supplied; developed analysis and a reasoned judgement."
+          ],
+          [
+            "19–24",
+            "Mostly accurate and relevant understanding, with developed application and analysis; evaluation or judgement has some unevenness."
+          ],
+          [
+            "13–18",
+            "Relevant understanding with some application and developed explanation; analysis is intermittent and the overall argument is partial."
+          ],
+          [
+            "7–12",
+            "Some relevant knowledge, but application is general and explanation or analysis is limited."
+          ],
+          [
+            "1–6",
+            "Fragmented or superficial knowledge with little development or focus on the question."
+          ],
+          [
+            "0",
+            "No relevant creditworthy response."
+          ]
+        ],
+        "ind": [
+          "Marxist and critical accounts of law, enforcement and class relations.",
+          "Corporate, state, green and cross-border harms.",
+          "Labelling and selective enforcement.",
+          "Gender, ethnicity, victimisation and unequal protection.",
+          "Alternative accounts involving consensus, strain, opportunity and agency.",
+          "Distinguish offending, criminalisation, recording and harm before reaching a judgement."
+        ],
+        "note": "Original indicative guidance, not a point-per-mark checklist. Use a best-fit holistic judgement and credit other accurate, relevant material. Where an item is provided, use its details in the argument rather than copying it without explanation."
+      }
+    },
+    "culture": {
+      "title": "Culture and identity",
+      "question": {
+        "q": "<p><b>Item B · original fictional material</b><br>People can select from an expanding range of cultural symbols. However, resources and the classifications imposed by other people may limit those choices.</p>Applying material from Item B and your knowledge, evaluate the view that identity is freely chosen.",
+        "m": 20,
+        "ms": [],
+        "lor": [
+          [
+            "17–20",
+            "Accurate and detailed understanding; sustained application to the question and item where supplied; developed analysis and a reasoned judgement."
+          ],
+          [
+            "13–16",
+            "Mostly accurate and relevant understanding, with developed application and analysis; evaluation or judgement has some unevenness."
+          ],
+          [
+            "9–12",
+            "Relevant understanding with some application and developed explanation; analysis is intermittent and the overall argument is partial."
+          ],
+          [
+            "5–8",
+            "Some relevant knowledge, but application is general and explanation or analysis is limited."
+          ],
+          [
+            "1–4",
+            "Fragmented or superficial knowledge with little development or focus on the question."
+          ],
+          [
+            "0",
+            "No relevant creditworthy response."
+          ]
+        ],
+        "ind": [
+          "Agencies and sanctions; interaction and recognition.",
+          "Class, gender, ethnicity, disability and age as intersecting contexts.",
+          "Production, consumption and global cultural circulation.",
+          "Choice, unequal resources and externally imposed categories."
+        ],
+        "note": "Original indicative guidance, not a point-per-mark checklist. Use a best-fit holistic judgement and credit other accurate, relevant material. Where an item is provided, use its details in the argument rather than copying it without explanation."
+      }
+    },
+    "families": {
+      "title": "Families and households",
+      "question": {
+        "q": "<p><b>Item B · original fictional material</b><br>Some accounts describe family relationships as increasingly negotiated and diverse. Other accounts emphasise continuing inequalities in domestic labour, resources and decision-making.</p>Applying material from Item B and your knowledge, evaluate the view that family relationships are now equal.",
+        "m": 20,
+        "ms": [],
+        "lor": [
+          [
+            "17–20",
+            "Accurate and detailed understanding; sustained application to the question and item where supplied; developed analysis and a reasoned judgement."
+          ],
+          [
+            "13–16",
+            "Mostly accurate and relevant understanding, with developed application and analysis; evaluation or judgement has some unevenness."
+          ],
+          [
+            "9–12",
+            "Relevant understanding with some application and developed explanation; analysis is intermittent and the overall argument is partial."
+          ],
+          [
+            "5–8",
+            "Some relevant knowledge, but application is general and explanation or analysis is limited."
+          ],
+          [
+            "1–4",
+            "Fragmented or superficial knowledge with little development or focus on the question."
+          ],
+          [
+            "0",
+            "No relevant creditworthy response."
+          ]
+        ],
+        "ind": [
+          "Life course, care and intergenerational relationships.",
+          "Paid work versus domestic, emotional and organisational labour.",
+          "Feminist, functionalist and personal-life perspectives.",
+          "Power, diversity and variation between households."
+        ],
+        "note": "Original indicative guidance, not a point-per-mark checklist. Use a best-fit holistic judgement and credit other accurate, relevant material. Where an item is provided, use its details in the argument rather than copying it without explanation."
+      }
+    },
+    "health": {
+      "title": "Health",
+      "question": {
+        "q": "<p><b>Item B · original fictional material</b><br>Medical expertise can improve health and offer reassurance. Professional definitions may also extend authority over everyday experiences, while resources affect who can obtain care.</p>Applying material from Item B and your knowledge, evaluate sociological explanations of the power of medicine.",
+        "m": 20,
+        "ms": [],
+        "lor": [
+          [
+            "17–20",
+            "Accurate and detailed understanding; sustained application to the question and item where supplied; developed analysis and a reasoned judgement."
+          ],
+          [
+            "13–16",
+            "Mostly accurate and relevant understanding, with developed application and analysis; evaluation or judgement has some unevenness."
+          ],
+          [
+            "9–12",
+            "Relevant understanding with some application and developed explanation; analysis is intermittent and the overall argument is partial."
+          ],
+          [
+            "5–8",
+            "Some relevant knowledge, but application is general and explanation or analysis is limited."
+          ],
+          [
+            "1–4",
+            "Fragmented or superficial knowledge with little development or focus on the question."
+          ],
+          [
+            "0",
+            "No relevant creditworthy response."
+          ]
+        ],
+        "ind": [
+          "Housing, working conditions and resources.",
+          "Digital, physical, time and informational barriers.",
+          "Biomedical and social models; professional authority and medicalisation.",
+          "Patient agency, benefits of expertise and global commercial interests."
+        ],
+        "note": "Original indicative guidance, not a point-per-mark checklist. Use a best-fit holistic judgement and credit other accurate, relevant material. Where an item is provided, use its details in the argument rather than copying it without explanation."
+      }
+    },
+    "work": {
+      "title": "Work, poverty and welfare",
+      "question": {
+        "q": "<p><b>Item B · original fictional material</b><br>Some argue that new technology improves skills and flexibility. Others argue that it enables deskilling, surveillance and insecure employment within global production networks.</p>Applying material from Item B and your knowledge, evaluate the view that technological change improves workers’ lives.",
+        "m": 20,
+        "ms": [],
+        "lor": [
+          [
+            "17–20",
+            "Accurate and detailed understanding; sustained application to the question and item where supplied; developed analysis and a reasoned judgement."
+          ],
+          [
+            "13–16",
+            "Mostly accurate and relevant understanding, with developed application and analysis; evaluation or judgement has some unevenness."
+          ],
+          [
+            "9–12",
+            "Relevant understanding with some application and developed explanation; analysis is intermittent and the overall argument is partial."
+          ],
+          [
+            "5–8",
+            "Some relevant knowledge, but application is general and explanation or analysis is limited."
+          ],
+          [
+            "1–4",
+            "Fragmented or superficial knowledge with little development or focus on the question."
+          ],
+          [
+            "0",
+            "No relevant creditworthy response."
+          ]
+        ],
+        "ind": [
+          "Income, wealth, housing costs and relative deprivation.",
+          "Algorithmic management, surveillance and bargaining power.",
+          "Division of labour, deskilling and reskilling.",
+          "Unequal effects; paid and unpaid work; welfare and global restructuring."
+        ],
+        "note": "Original indicative guidance, not a point-per-mark checklist. Use a best-fit holistic judgement and credit other accurate, relevant material. Where an item is provided, use its details in the argument rather than copying it without explanation."
+      }
+    },
+    "beliefs": {
+      "title": "Beliefs in society",
+      "question": {
+        "q": "<p><b>Item B · original fictional material</b><br>Declining authority and membership in some institutions are used as evidence of secularisation. Other sociologists emphasise changing belief, religious diversity and the importance of context.</p>Applying material from Item B and your knowledge, evaluate the view that religion is losing its social significance.",
+        "m": 20,
+        "ms": [],
+        "lor": [
+          [
+            "17–20",
+            "Accurate and detailed understanding; sustained application to the question and item where supplied; developed analysis and a reasoned judgement."
+          ],
+          [
+            "13–16",
+            "Mostly accurate and relevant understanding, with developed application and analysis; evaluation or judgement has some unevenness."
+          ],
+          [
+            "9–12",
+            "Relevant understanding with some application and developed explanation; analysis is intermittent and the overall argument is partial."
+          ],
+          [
+            "5–8",
+            "Some relevant knowledge, but application is general and explanation or analysis is limited."
+          ],
+          [
+            "1–4",
+            "Fragmented or superficial knowledge with little development or focus on the question."
+          ],
+          [
+            "0",
+            "No relevant creditworthy response."
+          ]
+        ],
+        "ind": [
+          "Affiliation, attendance and belief as different measures.",
+          "Socialisation, networks, migration and life-course/cohort differences.",
+          "Secularisation dimensions and evidence limits.",
+          "Pluralism, spiritual change, organisations and global diversity."
+        ],
+        "note": "Original indicative guidance, not a point-per-mark checklist. Use a best-fit holistic judgement and credit other accurate, relevant material. Where an item is provided, use its details in the argument rather than copying it without explanation."
+      }
+    },
+    "development": {
+      "title": "Global development",
+      "question": {
+        "q": "<p><b>Item B · original fictional material</b><br>Aid can support infrastructure, health and education. However, projects can also reflect donor priorities and create dependencies while trade, conflict and domestic institutions affect outcomes.</p>Applying material from Item B and your knowledge, evaluate the view that aid is the most effective route to development.",
+        "m": 20,
+        "ms": [],
+        "lor": [
+          [
+            "17–20",
+            "Accurate and detailed understanding; sustained application to the question and item where supplied; developed analysis and a reasoned judgement."
+          ],
+          [
+            "13–16",
+            "Mostly accurate and relevant understanding, with developed application and analysis; evaluation or judgement has some unevenness."
+          ],
+          [
+            "9–12",
+            "Relevant understanding with some application and developed explanation; analysis is intermittent and the overall argument is partial."
+          ],
+          [
+            "5–8",
+            "Some relevant knowledge, but application is general and explanation or analysis is limited."
+          ],
+          [
+            "1–4",
+            "Fragmented or superficial knowledge with little development or focus on the question."
+          ],
+          [
+            "0",
+            "No relevant creditworthy response."
+          ]
+        ],
+        "ind": [
+          "Distribution, capabilities, unpaid work and environmental costs.",
+          "Employment, technology, profit flows and unequal bargaining power.",
+          "Modernisation, dependency and world-systems explanations.",
+          "Aid, trade, state capacity, participation and sustainability."
+        ],
+        "note": "Original indicative guidance, not a point-per-mark checklist. Use a best-fit holistic judgement and credit other accurate, relevant material. Where an item is provided, use its details in the argument rather than copying it without explanation."
+      }
+    },
+    "media": {
+      "title": "The media",
+      "question": {
+        "q": "<p><b>Item B · original fictional material</b><br>Some explanations treat audiences as strongly influenced by messages. Others emphasise social context, selective use and dominant, negotiated or oppositional readings.</p>Applying material from Item B and your knowledge, evaluate the view that media audiences actively construct meanings.",
+        "m": 20,
+        "ms": [],
+        "lor": [
+          [
+            "17–20",
+            "Accurate and detailed understanding; sustained application to the question and item where supplied; developed analysis and a reasoned judgement."
+          ],
+          [
+            "13–16",
+            "Mostly accurate and relevant understanding, with developed application and analysis; evaluation or judgement has some unevenness."
+          ],
+          [
+            "9–12",
+            "Relevant understanding with some application and developed explanation; analysis is intermittent and the overall argument is partial."
+          ],
+          [
+            "5–8",
+            "Some relevant knowledge, but application is general and explanation or analysis is limited."
+          ],
+          [
+            "1–4",
+            "Fragmented or superficial knowledge with little development or focus on the question."
+          ],
+          [
+            "0",
+            "No relevant creditworthy response."
+          ]
+        ],
+        "ind": [
+          "Deadlines, sources, news values, budgets and ownership.",
+          "Algorithmic visibility and social interaction.",
+          "Direct-effects, active-audience and reception approaches.",
+          "Representation, power, global culture and limits of audience autonomy."
+        ],
+        "note": "Original indicative guidance, not a point-per-mark checklist. Use a best-fit holistic judgement and credit other accurate, relevant material. Where an item is provided, use its details in the argument rather than copying it without explanation."
+      }
+    },
+    "stratification": {
+      "title": "Stratification and differentiation",
+      "question": {
+        "q": "<p><b>Item B · original fictional material</b><br>Some accounts argue that education and occupational change weaken the importance of class origins. Others emphasise ownership, inheritance and intersecting inequalities in contemporary and global society.</p>Applying material from Item B and your knowledge, evaluate the view that social class is becoming less important.",
+        "m": 20,
+        "ms": [],
+        "lor": [
+          [
+            "17–20",
+            "Accurate and detailed understanding; sustained application to the question and item where supplied; developed analysis and a reasoned judgement."
+          ],
+          [
+            "13–16",
+            "Mostly accurate and relevant understanding, with developed application and analysis; evaluation or judgement has some unevenness."
+          ],
+          [
+            "9–12",
+            "Relevant understanding with some application and developed explanation; analysis is intermittent and the overall argument is partial."
+          ],
+          [
+            "5–8",
+            "Some relevant knowledge, but application is general and explanation or analysis is limited."
+          ],
+          [
+            "1–4",
+            "Fragmented or superficial knowledge with little development or focus on the question."
+          ],
+          [
+            "0",
+            "No relevant creditworthy response."
+          ]
+        ],
+        "ind": [
+          "Economic, cultural and social resources.",
+          "Absolute versus relative mobility; structural change versus equal chances.",
+          "Class, status, power and different class measures.",
+          "Gender, ethnicity, age, disability and transnational inequalities."
+        ],
+        "note": "Original indicative guidance, not a point-per-mark checklist. Use a best-fit holistic judgement and credit other accurate, relevant material. Where an item is provided, use its details in the argument rather than copying it without explanation."
+      }
+    }
+  }
+}
